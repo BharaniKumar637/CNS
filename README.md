@@ -39,7 +39,7 @@ void caesarCipher(char *text, int shift)
  }
 int main() 
 {
-    char text[] = "VARSHA";
+    char text[] = "BHARANI";
     caesarCipher(text, 3);
     printf("Encrypted Message: %s\n", text);
     caesarCipher(text,-3);
@@ -49,5 +49,6 @@ int main()
 }
 ~~~
 OUTPUT :-
-![cry ex 1](https://github.com/user-attachments/assets/b9ccb761-b4ac-4a94-b036-49726df1bf16)
+<img width="1532" height="855" alt="image" src="https://github.com/user-attachments/assets/70ed3d72-d645-4861-b7ea-f08062bac14f" />
+
 
